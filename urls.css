@@ -1,0 +1,50 @@
+body {
+margin:10px;
+overflow-x:hidden !important;
+background:#222222;
+line-height:25px;
+}
+div {
+margin:6px;
+padding:10px;
+background:#252525;
+}
+div:hover {
+background:#292929;
+}
+.irkkaaja {
+font-family: Georgia, serif;
+font-size: 17px;
+font-style: italic;
+font-weight: normal;
+text-transform: normal;
+letter-spacing: normal;
+color:#555555;
+}
+.aika {
+color:#444444;
+font-family: Cambria, georgia, serif;
+font-size: 16px;
+font-style: italic;
+font-weight: normal;
+letter-spacing: normal;
+}
+a {
+font-family: Cambria, serif;
+font-size: 28px;
+font-style: normal;
+font-weight: normal;
+letter-spacing: normal;
+text-decoration:none;
+}
+a:hover {
+text-decoration:underline;
+}
+a:link {
+color:#3A5594;
+}
+a:visited {
+color:#303030;
+text-decoration:line-through;
+font-family: Cambria, serif;
+}
